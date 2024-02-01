@@ -1,0 +1,68 @@
+[
+	{
+		"id": "1",
+		"title": "Auberge La Canebière",
+		"cover": "./assets/hebergements/4_small/auberge_la_canebiere.jpg",
+		"price": "Nuit à partir de 25 €",
+		"rating": "4"
+	},
+	{
+		"id": "2",
+		"title": "Hôtel du port",
+		"cover": "./assets/hebergements/4_small/hotel_du_port.jpg",
+		"price": "Nuit à partir de 52 €",
+		"rating": "5"
+	},
+	{
+		"id": "3",
+		"title": "Hôtel Les Mouettes",
+		"cover": "./assets/hebergements/4_small/hotel_les_mouettes.jpg",
+		"price": "Nuit à partir de 76 €",
+		"rating": "4"
+	},
+	{
+		"id": "4",
+		"title": "Hôtel dela mer",
+		"cover": "./assets/hebergements/4_small/hotel_de_la_mer.jpg",
+		"price": "Nuit à partir de 46 €",
+		"rating": "3"
+	},
+	{
+		"id": "5",
+		"title": "Auberge Le Panier",
+		"cover": "./assets/hebergements/4_small/auberge_le_panier.jpg",
+		"price": "Nuit à partir de 23 €",
+		"rating": "4"
+	},
+	{
+		"id": "6",
+		"title": "Hôtel Chez Amina",
+		"cover": "./assets/hebergements/4_small/hotel_chez_amina.jpg",
+		"price": "Nuit à partir de 96 €",
+		"rating": "5"
+	},
+	{
+		"id": "7",
+		"title": "Hôtel Le Soleil du Matin",
+		"cover": "./assets/hebergements/4_small/hotel_soleil_du_matin.jpg",
+		"price": "Nuit à partir de 128 €",
+		"rating": "5",
+		"popular": true
+	},
+	{
+		"id": "8",
+		"title": "Au Coeur de l'Eau - Chambres d'hôtes",
+		"cover": "./assets/hebergements/4_small/au_coeur_de_leau.jpg",
+		"price": "Nuit à partir de 71 €",
+		"rating": "4",
+		"popular": true
+	},
+	{
+		"id": "9",
+		"title": "Hôtel Tout Bleu et Blanc",
+		"cover": "./assets/hebergements/4_small/hotel_tout_bleu_tout_blanc.jpg",
+		"price": "Nuit à partir de 68 €",
+		"rating": "4",
+		"popular": true
+	}
+]
