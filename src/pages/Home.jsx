@@ -1,12 +1,12 @@
 import React from 'react';
-import Layout from './Layout';
-import Gallery from '../components/Gallery';
+import Header from '../components/Header';
+import DisplayCards from '../components/DisplayCards';
 
 export default function Home() {
   return (
       <div>
-          <Layout />
-          <Gallery />
+          <Header />
+          <DisplayCards />
     </div>
   )
 }

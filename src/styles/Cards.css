@@ -1,0 +1,63 @@
+/** LODGINGS AND POPULARS **/
+
+.lodgings {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+/** LODGINGS IN MARSEILLE **/
+
+.lodgings-container {
+    display: flex;
+    flex-direction: column;
+    width: 67%;
+    background-color: var(--light-grey);
+    padding: 40px;
+    border-radius: 25px;
+    gap: 30px;
+}
+
+.lodgings-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.lodgings__card {
+    flex: 1 1 31%;
+    border-radius: 25px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 var(--dark-grey);
+    transition: 0.3s;
+}
+
+.lodgings__card img {
+    width: 100%;
+    padding: 6px 6px 0 6px;
+    border-radius: 25px 25px 0 0;
+    height: 140px;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+.lodgings__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 90px;
+    padding: 0 6px 6px 18px;
+}
+
+.lodgings-more {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.lodgings-more a:hover {
+    color: var(--blue);
+}
