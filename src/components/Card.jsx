@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../styles/sass/_Cards.scss';
 import RatingScale from './RatingScale';
 
 export default function Card({ id, cover, title, price, rating }) {

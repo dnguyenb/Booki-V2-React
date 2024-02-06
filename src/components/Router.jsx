@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import '../styles/sass/_App.scss';
+import '../styles/sass/_base.scss';
 import Home from '../pages/Home';
 import NoPage from '../pages/NoPage';
 

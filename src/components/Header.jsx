@@ -1,6 +1,5 @@
 import React from 'react';
 import logo from '../assets/logo/Booki.png';
-import '../styles/sass/_Header.scss';
 
 function Header() {
 	return (
